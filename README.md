@@ -5,7 +5,9 @@ Initial Frontend Prototype Setup:
 
 Tech Stack:
 
-Backend:SpringBoot
+Backend:
+
+SpringBoot
 
 Frontend:ReactJS,TailwindCSS
 
