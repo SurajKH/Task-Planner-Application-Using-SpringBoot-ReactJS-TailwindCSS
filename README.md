@@ -5,4 +5,4 @@ Tech Stack:
 
 Backend:SpringBoot
 
-Frontend:ReactJS
+Frontend:ReactJS,TailwindCSS
