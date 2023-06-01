@@ -3,4 +3,4 @@ Task Planner Application using SpringBoot,ReactJS and TailwindCSS.
 
 Tech Stack:
 
-SpringBoot
+Backend:SpringBoot
