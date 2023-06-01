@@ -1,7 +1,7 @@
 # Task-Planner-Application using SptingBoot,ReactJS and TailwindCSS
 Task Planner Application using SpringBoot,ReactJS and TailwindCSS.
 
-Initial Frontend Prototype Setup:
+Initial Frontend Prototype Setup:(ReactJS,TailwindCSS)
 
 Tech Stack:
 
