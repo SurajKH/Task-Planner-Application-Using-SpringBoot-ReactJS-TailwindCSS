@@ -9,6 +9,8 @@ Backend:
 
 SpringBoot
 
-Frontend:ReactJS,TailwindCSS
+Frontend:
+
+ReactJS,TailwindCSS
 
 API Testing:PostmanAPI
