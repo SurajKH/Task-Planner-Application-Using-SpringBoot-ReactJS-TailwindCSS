@@ -12,6 +12,9 @@ Initial Frontend Prototype Setup:(ReactJS,TailwindCSS)
 
 Initial Backend Prototype Setup:(SpringBoot)
 
+1.Setting up of Multiple Entities.
+
+
 Tech Stack:
 
 Backend:
