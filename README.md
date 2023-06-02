@@ -6,6 +6,7 @@ Different Views:Admin,Adding a New Task,About Us.
 Initial Frontend Prototype Setup:(ReactJS,TailwindCSS)
 
 1.Setting up of Different View Pages.
+
 2.Authentication Functionality.
 
 
