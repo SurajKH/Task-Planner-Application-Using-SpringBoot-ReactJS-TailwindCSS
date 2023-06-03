@@ -3,7 +3,7 @@ Task Planner Application using SpringBoot,ReactJS and TailwindCSS.
 
 Different Views:Admin,Adding a New Task,About Us Views.
 
-Progress:With Respect to Frontend 
+Progress:With Respect to Frontend and Backend of Application.
 
 Initial Frontend Prototype Setup:
 
