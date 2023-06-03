@@ -5,6 +5,9 @@ Different Views:
 
 Admin,Adding a New Task,About Us Views,Error Page,Tasks Visualization.
 
+If User Exists and Password is incorrect generate a new Password using random and give it to User.
+
+
 Progress:
 
 With Respect to Frontend and Backend of Application.
