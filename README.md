@@ -68,7 +68,7 @@ Tech Stack:
 
 Backend:
 
-SpringBoot
+SpringBoot,MySQL
 
 Frontend:
 
