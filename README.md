@@ -9,9 +9,12 @@ Initial Frontend Prototype Setup:
 
 (ReactJS,TailwindCSS)
 
-1.Setting up of Different View Pages.
+Admin Page:
 
-2.Authentication Functionality.
+Basically Considering the concept of Creation of view , in such a way that only Users with Admin Priveleges have access to the respective
+Applications.
+
+
 
 
 Initial Backend Prototype Setup:
