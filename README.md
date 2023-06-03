@@ -34,6 +34,9 @@ Here the focus is to display all the entries that is being rendered from the tab
 
 Error Page:
 
+When ever the User tries to sign-in without Admin Priveleges then we are trying to redirect to an Error 404 Page.
+
+
 Initial Backend Prototype Setup:
 
 (SpringBoot)
