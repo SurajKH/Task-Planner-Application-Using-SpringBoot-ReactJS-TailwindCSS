@@ -25,7 +25,9 @@ We basically consider adding a new task,wherein the tasks are basically stored i
 <img width="708" alt="Screenshot 2023-06-03 at 4 05 48 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/8c42d854-8029-4b3a-b922-9c7fb47f7c4e">
 
 
-Displaying All the Tasks in the Table Format:Here the focus is to display all the entries that is being rendered from the table present in the MySQL Database.
+Displaying All the Tasks in the Table Format:
+
+Here the focus is to display all the entries that is being rendered from the table present in the MySQL Database.
 
 
 <img width="1440" alt="Screenshot 2023-06-03 at 4 10 17 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/ea89f658-d812-471d-99cc-ed0a288c7f1b">
