@@ -1,7 +1,9 @@
 # Task-Planner-Application using SpringBoot,ReactJS and TailwindCSS
 Task Planner Application using SpringBoot,ReactJS and TailwindCSS.
 
-Different Views:Admin,Adding a New Task,About Us Views,Error Page.
+Different Views:
+
+Admin,Adding a New Task,About Us Views,Error Page.
 
 Progress:
 
