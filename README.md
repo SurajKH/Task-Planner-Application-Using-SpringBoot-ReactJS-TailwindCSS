@@ -14,6 +14,7 @@ Initial Backend Prototype Setup:(SpringBoot)
 
 1.Setting up of Multiple Entities.
 2.Following of an MVC Architecture.
+3.Establishing Connectivity between the frontend and backend application 
 
 
 Tech Stack:
