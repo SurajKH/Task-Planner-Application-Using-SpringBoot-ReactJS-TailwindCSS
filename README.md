@@ -36,6 +36,8 @@ Error Page:
 
 When ever the User tries to sign-in without Admin Priveleges then we are trying to redirect to an Error 404 Page.
 
+<img width="1435" alt="Screenshot 2023-06-03 at 4 14 53 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/a6a1250d-bdcb-4ea3-8b47-ba81268420ac">
+
 
 Initial Backend Prototype Setup:
 
