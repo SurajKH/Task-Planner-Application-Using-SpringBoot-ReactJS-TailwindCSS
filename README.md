@@ -29,7 +29,7 @@ Displaying All the Tasks in the Table Format:
 
 <img width="1440" alt="Screenshot 2023-06-03 at 4 10 17 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/ea89f658-d812-471d-99cc-ed0a288c7f1b">
 
-
+Error Page:
 
 Initial Backend Prototype Setup:
 
