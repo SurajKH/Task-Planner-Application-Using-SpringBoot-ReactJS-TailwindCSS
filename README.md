@@ -41,6 +41,9 @@ When ever the User tries to sign-in without Admin Priveleges then we are trying 
 Task Visualization with respect to Task Priority:
 
 
+Advanced Task Visualization with respect to Task Category:
+
+
 
 Initial Backend Prototype Setup:
 
