@@ -61,7 +61,7 @@ Initial Backend Prototype Setup:
 
 3.Establishing Connectivity between the frontend and backend application using CrossOrigin Annotation. 
 
-4.MySQL Database Connectivity by considering updation with respect to 
+4.MySQL Database Connectivity by considering updation with respect to applications.properties. 
 
 
 Tech Stack:
