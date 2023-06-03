@@ -12,7 +12,9 @@ Initial Frontend Prototype Setup:
 2.Authentication Functionality.
 
 
-Initial Backend Prototype Setup:(SpringBoot)
+Initial Backend Prototype Setup:
+
+(SpringBoot)
 
 1.Setting up of Multiple Entities.
 2.Following of an MVC Architecture.
