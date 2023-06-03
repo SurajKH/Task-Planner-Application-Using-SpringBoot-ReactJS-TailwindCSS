@@ -66,7 +66,7 @@ SpringBoot
 
 Frontend:
 
-ReactJS,TailwindCSS,Chart.js
+ReactJS,TailwindCSS,Chart.js(Data Visualization).
 
 API Testing:
 
