@@ -18,7 +18,7 @@ Applications.
 <img width="791" alt="Adminpage" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/b23a77ad-c440-43be-b1bb-63385f228ac8">
 
 
-
+Add a New Task Page:
 
 Initial Backend Prototype Setup:
 
