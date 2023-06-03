@@ -44,6 +44,7 @@ Utilization of Chart.js
 
 Advanced Task Visualization with respect to Task Category:
 
+Utilization of Chart.js
 
 
 Initial Backend Prototype Setup:
