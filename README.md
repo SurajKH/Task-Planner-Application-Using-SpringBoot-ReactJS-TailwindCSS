@@ -49,6 +49,9 @@ When ever the User tries to sign-in without Admin Priveleges then we are trying 
 
 Task Visualization with respect to Task Priority: Utilization of Chart.js
 
+<img width="1440" alt="Screenshot 2023-06-04 at 1 54 16 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/4a56d089-c6bd-4688-9091-db7f56b588f9">
+
+
 Advanced Task Visualization with respect to Task Category: Utilization of Chart.js
 
 Tasks Analytics:
