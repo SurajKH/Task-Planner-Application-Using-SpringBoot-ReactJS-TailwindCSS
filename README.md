@@ -29,7 +29,7 @@ Applications.
 <img width="1435" alt="Screenshot 2023-06-04 at 1 44 58 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/9a7ffae5-ecfe-4957-9b12-9f98022b122a">
 
 
-Add a New Task Page:
+3.Add a New Task Page:
 
 We basically consider adding a new task,wherein the tasks are basically stored in the Mysql Database as a new tuple entry and it adheres to the schema defined in the backend part of the Application.
 
