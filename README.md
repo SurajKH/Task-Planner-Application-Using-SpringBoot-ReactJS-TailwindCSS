@@ -49,9 +49,7 @@ When ever the User tries to sign-in without Admin Priveleges then we are trying 
 
 Task Visualization with respect to Task Priority: Utilization of Chart.js
 
-Advanced Task Visualization with respect to Task Category:
-
-Utilization of Chart.js
+Advanced Task Visualization with respect to Task Category: Utilization of Chart.js
 
 
 Initial Backend Prototype Setup:
