@@ -61,6 +61,11 @@ Tasks Analytics:
 <img width="933" alt="Screenshot 2023-06-04 at 1 56 30 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/d203ebfe-f189-4c36-aaa4-79d6c87507ca">
 
 
+Future Scopes:
+More Backend Functionality:Such as SubTasks and Daily Tracking,Task Completed Status,Yet to Completed Tasks.
+(Need to consider one more Entity:TaskManagerEntity(Consider all the Tasks inside the Task Manager(One to Many Relationships).
+
+
 
 
 
