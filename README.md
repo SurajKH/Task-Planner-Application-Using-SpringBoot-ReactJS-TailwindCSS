@@ -51,6 +51,9 @@ Task Visualization with respect to Task Priority: Utilization of Chart.js
 
 Advanced Task Visualization with respect to Task Category: Utilization of Chart.js
 
+Tasks Analytics:
+
+
 
 Initial Backend Prototype Setup:
 
