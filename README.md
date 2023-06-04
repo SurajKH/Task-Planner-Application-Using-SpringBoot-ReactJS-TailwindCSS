@@ -34,8 +34,6 @@ Add a New Task Page:
 We basically consider adding a new task,wherein the tasks are basically stored in the Mysql Database as a new tuple entry and it adheres to the schema defined in the backend part of the Application.
 
 
-
-
 Displaying All the Tasks in the Table Format:
 
 Here the focus is to display all the entries that is being rendered from the table present in the MySQL Database.
