@@ -66,6 +66,8 @@ More Backend Functionality:Such as SubTasks and Daily Tracking,Task Completed St
 (Need to consider one more Entity:TaskManagerEntity(Consider all the Tasks inside the Task Manager(One to Many Relationships).
 
 
+Realtime Progress Analyser:(As in whether we were able to complete the task within the Due Date).
+
 
 
 
