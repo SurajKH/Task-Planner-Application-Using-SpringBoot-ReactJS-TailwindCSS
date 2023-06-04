@@ -62,6 +62,9 @@ Tasks Analytics:
 <img width="933" alt="Screenshot 2023-06-04 at 1 56 30 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/d203ebfe-f189-4c36-aaa4-79d6c87507ca">
 
 
+<img width="1437" alt="Screenshot 2023-06-04 at 1 54 41 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/a538d628-c786-4968-979a-43496156c75f">
+
+
 Initial Backend Prototype Setup:
 
 (SpringBoot)
