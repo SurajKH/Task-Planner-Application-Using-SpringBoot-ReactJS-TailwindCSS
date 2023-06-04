@@ -7,11 +7,6 @@ Admin,Adding a New Task,About Us Views,Error Page,Tasks Visualization.
 
 If User Exists and Password is incorrect generate a new Password using random and give it to User.
 
-
-Progress:
-
-With Respect to Frontend and Backend of Application.
-
 Initial Frontend Prototype Setup:
 
 (ReactJS,TailwindCSS)
@@ -67,18 +62,6 @@ Tasks Analytics:
 
 
 
-
-Initial Backend Prototype Setup:
-
-(SpringBoot)
-
-1.Setting up of Multiple Entities.
-
-2.Following of an MVC Architecture.
-
-3.Establishing Connectivity between the frontend and backend application using CrossOrigin Annotation. 
-
-4.MySQL Database Connectivity by considering updation with respect to applications.properties. 
 
 
 Tech Stack:
