@@ -17,7 +17,7 @@ Basically Considering the concept of Creation of view , in such a way that only 
 Applications.
 
 
-<img width="800" height="800" alt="Adminpage" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/b23a77ad-c440-43be-b1bb-63385f228ac8">
+<img width="600" height="600" alt="Adminpage" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/b23a77ad-c440-43be-b1bb-63385f228ac8">
 
 2.About Us Page:
 
