@@ -70,6 +70,7 @@ Realtime Progress Analyser:
 
 (As in whether we were able to complete the task within the Due Date).
 
+Implementation of Demerits Points and Suggestions Pages.
 
 
 
