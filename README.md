@@ -23,9 +23,6 @@ Applications.
 We basically consider adding a new task,wherein the tasks are basically stored in the Mysql Database as a new tuple entry and it adheres to the schema defined in the backend part of the Application.
 
 
-<img width="915" alt="Screenshot 2023-06-04 at 1 49 21 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/a5b588c9-8a51-47e5-8f49-2299422a5f42">
-
-
 Displaying All the Tasks in the Table Format:
 
 Here the focus is to display all the entries that is being rendered from the table present in the MySQL Database.
