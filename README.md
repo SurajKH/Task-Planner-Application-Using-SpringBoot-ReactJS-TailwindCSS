@@ -30,8 +30,6 @@ Displaying All the Tasks in the Table Format:
 
 Here the focus is to display all the entries that is being rendered from the table present in the MySQL Database.
 
-<img width="863" alt="Screenshot 2023-06-04 at 1 51 55 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/ca3f7960-32bc-4183-92d3-a4088c754a94">
-
 
 Error Page:
 
