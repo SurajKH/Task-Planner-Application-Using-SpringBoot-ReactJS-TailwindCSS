@@ -28,11 +28,11 @@ We basically consider adding a new task,wherein the tasks are basically stored i
 <img width="915" alt="Screenshot 2023-06-04 at 1 49 21 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/8f4b1c79-f757-493a-898f-fafdd6753ee7">
 
 
-
-
 Displaying All the Tasks in the Table Format:
 
 Here the focus is to display all the entries that is being rendered from the table present in the MySQL Database.
+
+<img width="863" alt="Screenshot 2023-06-04 at 1 51 55 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/d095a57f-8b70-4ce6-a0fc-7c6b91d73ccc">
 
 
 Error Page:
