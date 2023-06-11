@@ -44,6 +44,9 @@ Task Visualization with respect to Task Priority: Utilization of Chart.js
 
 Advanced Task Visualization with respect to Task Priority: Utilization of Chart.js
 
+<img width="1440" alt="Screenshot 2023-06-04 at 1 54 16 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/a3a3e29e-7823-4ae0-a93d-a19e78dfd26b">
+
+
 
 Future Scopes:
 More Backend Functionality:Such as SubTasks and Daily Tracking,Task Completed Status,Yet to Completed Tasks.
