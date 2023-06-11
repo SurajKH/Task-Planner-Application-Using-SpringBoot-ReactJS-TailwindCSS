@@ -16,13 +16,7 @@ Initial Frontend Prototype Setup:
 Basically Considering the concept of Creation of view , in such a way that only Users with Admin Privileges have access to the respective
 Applications.
 
-
-<img width="600" height="600" alt="Adminpage" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/b23a77ad-c440-43be-b1bb-63385f228ac8">
-
-2.About Us Page:
-
-<img width="1435" alt="Screenshot 2023-06-04 at 1 44 58 PM" src="https://github.com/SurajKH/Task-Planner-Application/assets/90398336/9a7ffae5-ecfe-4957-9b12-9f98022b122a">
-
+2.About Us Page:Generates an About Us Page breifing about the Application.
 
 3.Add a New Task Page:
 
