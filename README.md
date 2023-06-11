@@ -25,6 +25,10 @@ Applications.
 
 We basically consider adding a new task,wherein the tasks are basically stored in the Mysql Database as a new tuple entry and it adheres to the schema defined in the backend part of the Application.
 
+<img width="915" alt="Screenshot 2023-06-04 at 1 49 21 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/8f4b1c79-f757-493a-898f-fafdd6753ee7">
+
+
+
 
 Displaying All the Tasks in the Table Format:
 
