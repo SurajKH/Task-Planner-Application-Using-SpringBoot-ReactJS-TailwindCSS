@@ -16,10 +16,10 @@ Initial Frontend Prototype Setup:
 Basically Considering the concept of Creation of view , in such a way that only Users with Admin Privileges have access to the respective
 Applications.
 
-<img width="1435" alt="Screenshot 2023-06-04 at 1 44 58 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/c07b1009-835a-4d8d-a42c-5c663a7ea708">
-
-
 2.About Us Page:Generates an About Us Page breifing about the Application.
+
+
+<img width="1435" alt="Screenshot 2023-06-04 at 1 44 58 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/c07b1009-835a-4d8d-a42c-5c663a7ea708">
 
 3.Add a New Task Page:
 
