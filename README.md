@@ -51,11 +51,6 @@ Advanced Task Visualization with respect to Task Priority: Utilization of Chart.
 <img width="1437" alt="Screenshot 2023-06-04 at 1 54 41 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/c747e0ea-5e23-43e8-a040-fdcb60f57c94">
 
 
-Due Date Tracking Functionality:
-
-<img width="933" alt="Screenshot 2023-06-04 at 1 56 30 PM" src="https://github.com/SurajKH/Task-Planner-Application-Using-SpringBoot-ReactJS-TailwindCSS/assets/90398336/511eb4fb-8e86-42c9-ac13-09752fa6af14">
-
-
 Future Scopes:
 More Backend Functionality:Such as SubTasks and Daily Tracking,Task Completed Status,Yet to Completed Tasks.
 (Need to consider one more Entity:TaskManagerEntity(Consider all the Tasks inside the Task Manager(One to Many Relationships).
